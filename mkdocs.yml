@@ -1,0 +1,13 @@
+site_name: MAGPI stellar populations
+site_description: Measuring stellar populations for the MAGPI galaxy survey
+edit_uri: edit/main/docs
+
+repo_url: https://github.com//
+repo_name: /
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github 
+  features:
+    - content.action.edit

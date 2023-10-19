@@ -1,0 +1,18 @@
+[project]
+name = magpi-stellar-pops
+description = Measuring stellar populations for the MAGPI galaxy survey
+version = "1.0.0"
+authors = [
+    { name = Sam Vaughan, email = sam.vaughan@mq.edu.au }
+]
+dependencies = [
+    "numpy",
+    "astropy",
+    "matplotlib",
+    "pandas"
+]
+
+[project.optional-dependencies]
+dev = [
+    "tox"
+]

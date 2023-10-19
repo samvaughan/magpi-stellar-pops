@@ -1,0 +1,5 @@
+*.DS_Store
+*.fits
+
+# Ignore the raw data
+MAGPI stellar populations/data/raw
