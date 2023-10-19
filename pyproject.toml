@@ -1,15 +1,16 @@
 [project]
-name = magpi-stellar-pops
-description = Measuring stellar populations for the MAGPI galaxy survey
+name = "magpi-stellar-pops"
+description = "Measuring stellar populations for the MAGPI galaxy survey"
 version = "1.0.0"
 authors = [
-    { name = Sam Vaughan, email = sam.vaughan@mq.edu.au }
+    { name = "Sam Vaughan", email = "sam.vaughan@mq.edu.au" }
 ]
 dependencies = [
     "numpy",
     "astropy",
     "matplotlib",
-    "pandas"
+    "pandas",
+    "pytest"
 ]
 
 [project.optional-dependencies]

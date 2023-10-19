@@ -1,0 +1,8 @@
+numpy
+astropy
+matplotlib
+pandas
+pytest
+
+[dev]
+tox

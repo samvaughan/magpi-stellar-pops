@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: magpi-stellar-pops
+Version: 1.0.0
+Summary: Measuring stellar populations for the MAGPI galaxy survey
+Author-email: Sam Vaughan <sam.vaughan@mq.edu.au>
+License-File: LICENSE.md
+Requires-Dist: numpy
+Requires-Dist: astropy
+Requires-Dist: matplotlib
+Requires-Dist: pandas
+Requires-Dist: pytest
+Provides-Extra: dev
+Requires-Dist: tox; extra == "dev"

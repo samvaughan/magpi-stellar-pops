@@ -1,0 +1,13 @@
+LICENSE.md
+README.md
+pyproject.toml
+src/__init__.py
+src/magpi_stellar_pops.egg-info/PKG-INFO
+src/magpi_stellar_pops.egg-info/SOURCES.txt
+src/magpi_stellar_pops.egg-info/dependency_links.txt
+src/magpi_stellar_pops.egg-info/requires.txt
+src/magpi_stellar_pops.egg-info/top_level.txt
+src/scripts/MAGPI_tools.py
+src/scripts/__init__.py
+src/scripts/utils.py
+tests/test_utils.py
