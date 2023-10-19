@@ -1,3 +1,5 @@
 # A config file for the MAGPI stellar populations code
 
 catalogue_filename: catalogue_location.fits
+
+MILES_pathname: location/of/MILES/templates.fits
