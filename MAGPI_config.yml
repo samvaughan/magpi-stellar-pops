@@ -1,0 +1,3 @@
+# A config file for the MAGPI stellar populations code
+
+catalogue_filename: catalogue_location.fits

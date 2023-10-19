@@ -10,4 +10,5 @@ src/magpi_stellar_pops.egg-info/top_level.txt
 src/scripts/MAGPI_tools.py
 src/scripts/__init__.py
 src/scripts/utils.py
+tests/test_MAGPI_tools.py
 tests/test_utils.py

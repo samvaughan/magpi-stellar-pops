@@ -1,5 +1,6 @@
 *.DS_Store
 *.fits
+*.pyc
 
 # Keep the test data though
 !tests/test_data/*.fits
