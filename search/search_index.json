@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"MAGPI Stellar Populations","text":"<p>A bare-bones Mkdocs file for <code>magpi-stellar-pops</code>. Very much a work in progress!</p>"}]}
